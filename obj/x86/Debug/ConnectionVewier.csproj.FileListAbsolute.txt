@@ -1,0 +1,9 @@
+E:\projects\csharp\SocketConnections\SocketConnection\obj\x86\Debug\ConnectionVewier.csprojResolveAssemblyReference.cache
+E:\projects\csharp\SocketConnections\SocketConnection\obj\x86\Debug\ConnectionViewer.ConnectionViewerForm.resources
+E:\projects\csharp\SocketConnections\SocketConnection\obj\x86\Debug\ConnectionVewier.csproj.GenerateResource.cache
+E:\projects\csharp\SocketConnections\SocketConnection\obj\x86\Debug\ConnectionVewier.csproj.CoreCompileInputs.cache
+E:\projects\csharp\SocketConnections\SocketConnection\bin\Debug\ConnectionViewer.exe
+E:\projects\csharp\SocketConnections\SocketConnection\bin\Debug\ConnectionViewer.pdb
+E:\projects\csharp\SocketConnections\SocketConnection\obj\x86\Debug\ConnectionViewer.Properties.Resources.resources
+E:\projects\csharp\SocketConnections\SocketConnection\obj\x86\Debug\ConnectionViewer.exe
+E:\projects\csharp\SocketConnections\SocketConnection\obj\x86\Debug\ConnectionViewer.pdb
